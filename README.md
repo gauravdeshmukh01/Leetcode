@@ -1,5 +1,6 @@
 <p align="center">
-![](https://leetcard.jacoblin.cool/gauravdeshmukh01?ext=heatmap)
+  <img src="https://leetcard.jacoblin.cool/gauravdeshmukh01?ext=heatmap" alt="LeetCode Stats">
+</p>
 
 
 <!---LeetCode Topics Start-->
