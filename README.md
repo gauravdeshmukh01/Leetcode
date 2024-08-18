@@ -1,6 +1,6 @@
 <p align="center">
 ![](https://leetcard.jacoblin.cool/gauravdeshmukh01?ext=heatmap)
-p>
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
